@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "Includes intresting stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":2,
+        "name": "Science Book",
+        "title": "various Scientific facts",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":3,
+        "name": "Poem Book",
+        "title": "Includes intresting poems",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":4,
+        "name": "Grammar Book",
+        "title": "Includes grammar",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":5,
+        "name": "German Book",
+        "title": "Includes German launguage",
+        "price": 100,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":6,
+        "name": "Maths Book",
+        "title": "Includes mathematics",
+        "price": 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":7,
+        "name": "CS fundamentals Book",
+        "title": "Includes CS fundamentals",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":8,
+        "name": "Literature Book",
+        "title": "Includes literature",
+        "price": 10,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    },
+
+    {
+        "id":9,
+        "name": "History Book",
+        "title": "Includes intresting historical facts",
+        "price": 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721155981~exp=1721159581~hmac=f90d73de8a3634511edaa44edcf0b7ecee071b111d15ca2eb50a1d8bdb3aa7a0&w=740" 
+    }
+]

@@ -50,11 +50,12 @@ function Footer() {
         </nav>
         <aside>
           <p>Copyright © 2024 - All right reserved</p>
-          <p>Designed by Asfarcd</p>
+          <p>Designed by Asfar</p>
         </aside>
       </footer>
     </div>
   );
 }
+
 
 export default Footer;

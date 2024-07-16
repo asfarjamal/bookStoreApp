@@ -64,9 +64,7 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          Welcome to our Book Store App! Here, you can effortlessly browse and purchase your favorite books. Discover new releases and bestsellers with ease. Our app offers a seamless shopping experience, ensuring you find exactly what you're looking for. Enjoy personalized recommendations and convenient checkout options. Happy reading and shopping!
           </p>
         </div>
 
