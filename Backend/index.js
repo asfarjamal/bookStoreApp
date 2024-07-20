@@ -15,7 +15,7 @@ app.use(express.json());
 dotenv.config();
 
 const PORT = process.env.PORT || 4000;
-const URI = mongodb+srv://asfarnitjsr:qwerty121@cluster0.btye8sp.mongodb.net/;
+const URI = process.env.MongoDBURI;
 
 // connect to mongoDB
 try {
@@ -34,9 +34,9 @@ app.use("/user", userRoute);
 
 if(process.env.NODE_ENV === "production") {
     const dirPath = path.resolve();
-    app.use(express.static("Frontend/dist"));
+    app.use(express.static("./Frontend/dist"));
     app.get("*", (req, res) => {
-        res.sendFile(path.resolve(dirPath,"./Frontend", "dist","index.html"));
+        res.sendFile(path.resolve(dirPath,"./Frontend/dist","index.html"));
     })
 }
 
